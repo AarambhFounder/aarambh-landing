@@ -5,7 +5,7 @@ export const metadata = {
   description: 'AI-powered parenting assistant for toddlers in India.',
 };
 
-export default function RootLayout({ children }: { children: React.ReactNode }) {
+export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body>{children}</body>
