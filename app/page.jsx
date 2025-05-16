@@ -8,7 +8,7 @@ export default function Home() {
           and curated toy/book recommendations — all personalized for your toddler.
         </p>
         <a
-  href="https://bit.ly/aarambh-waitlist"
+  href="https://tally.so/r/mRlPV9"
   className="bg-blue-600 text-white px-6 py-3 rounded-full shadow hover:bg-blue-700 transition"
         >
   Join the Waitlist on WhatsApp
