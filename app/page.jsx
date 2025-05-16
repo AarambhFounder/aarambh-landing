@@ -8,13 +8,11 @@ export default function Home() {
           and curated toy/book recommendations — all personalized for your toddler.
         </p>
         <a
-          href="https://wa.me/917687840584?text=I%20want%20to%20join%20Aarambh"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="bg-blue-600 text-white px-6 py-3 rounded-full shadow hover:bg-blue-700 transition"
+  href="https://wa.me/919801353021?text=I%20want%20to%20join%20Aarambh"
+  className="bg-blue-600 text-white px-6 py-3 rounded-full shadow hover:bg-blue-700 transition"
         >
-          Join the Waitlist on WhatsApp
-        </a>
+  Join the Waitlist on WhatsApp
+      </a>
         <p className="text-sm text-gray-500 mt-4">No spam, only love. ❤️</p>
       </div>
     </main>
