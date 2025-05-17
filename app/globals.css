@@ -2,7 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Optional: Add some global smooth font rendering */
+/* Optional global styling */
 body {
-  @apply antialiased text-gray-800 bg-white;
+  @apply text-gray-800 bg-white antialiased;
 }
