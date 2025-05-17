@@ -1,5 +1,5 @@
 {
-  "name": "aarambh-website",
+  "name": "aarambh-landing",
   "version": "1.0.0",
   "scripts": {
     "dev": "next dev",
