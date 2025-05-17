@@ -1,6 +1,9 @@
+// app/layout.jsx
+import "./globals.css";
+
 export const metadata = {
-  title: 'Aarambh – Your Parenting Copilot',
-  description: 'AI-powered parenting assistant for toddlers in India.',
+  title: "Aarambh – Your Parenting Copilot",
+  description: "AI-powered parenting assistant for toddlers in India.",
 };
 
 export default function RootLayout({ children }) {
