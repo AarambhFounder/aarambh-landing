@@ -59,6 +59,16 @@ export default function Home() {
           <li>Receive nudges directly on WhatsApp every day</li>
         </ol>
       </div>
+
+      {/* About Us */}
+      <div className="py-16 px-4 text-center">
+        <h2 className="text-2xl font-semibold mb-6">About Us</h2>
+        <p className="max-w-3xl mx-auto text-lg text-gray-700">
+          Aarambh is built by parents, educators, and AI experts who believe early childhood deserves mindful,
+          tech-powered support — without screens or stress. Our mission is to empower first-time parents in India with
+          curated, practical tools that foster joyful development.
+        </p>
+      </div>
     </div>
   );
 }
