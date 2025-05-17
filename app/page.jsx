@@ -86,4 +86,22 @@ export default function Home() {
       {/* How It Works */}
       <section className="bg-white py-16 px-4 text-center">
         <h2 className="text-2xl sm:text-3xl font-semibold mb-6">How It Works</h2>
-        <ol className="list-decimal space-y-4 max-w-xl m
+        <ol className="list-decimal space-y-4 max-w-xl mx-auto text-left text-base sm:text-lg pl-6 sm:pl-5">
+          <li>Fill the waitlist form with your baby’s age and city</li>
+          <li>We personalize a daily parenting journey for you</li>
+          <li>Receive nudges directly on WhatsApp every day</li>
+        </ol>
+      </section>
+
+      {/* About Us */}
+      <section className="bg-blue-50 py-16 px-4 text-center">
+        <h2 className="text-2xl sm:text-3xl font-semibold mb-6">About Us</h2>
+        <p className="max-w-3xl mx-auto text-base sm:text-lg text-gray-700">
+          Aarambh is built by parents, educators, and AI experts who believe early childhood deserves mindful,
+          tech-powered support — without screens or stress. Our mission is to empower first-time parents in India with
+          curated, practical tools that foster joyful development.
+        </p>
+      </section>
+    </main>
+  );
+}
