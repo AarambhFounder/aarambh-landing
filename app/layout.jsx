@@ -2,7 +2,7 @@ import "./globals.css";
 
 export const metadata = {
   title: "Aarambh — Your Parenting Copilot",
-  description: "Get daily parenting tips, toy/book ideas & more via WhatsApp.",
+  description: "Daily nudges, toy tips, and personalized support for first-time parents.",
 };
 
 export default function RootLayout({ children }) {
