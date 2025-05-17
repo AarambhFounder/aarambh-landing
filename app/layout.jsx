@@ -1,8 +1,8 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Aarambh — Your Parenting Copilot",
-  description: "Daily nudges, toy tips, and personalized support for first-time parents.",
+  title: "Aarambh",
+  description: "Parenting support for first-time parents.",
 };
 
 export default function RootLayout({ children }) {
